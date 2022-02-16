@@ -3,7 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "607a2b5199ce062312dc533f457670f4",
+  "assets/AssetManifest.json": "295343bb3d6667f138924736a9919a11",
+"assets/assets/fonts/ValeraRound/OFL.txt": "62f818df1b75f79e7a56c7d102d187e9",
+"assets/assets/fonts/ValeraRound/VarelaRound-Regular.ttf": "6b7c705707eaa294409430419fd98efb",
 "assets/assets/img/background/1.jpg": "13c2c488a5dc45dc3ec8eb18a84a93ab",
 "assets/assets/img/background/2.jpg": "0d69848ee48dd048395abe531c30ae1d",
 "assets/assets/img/background/3.jpg": "7fff8232e191bcf349a92e80f5b77c4e",
@@ -11,9 +13,9 @@ const RESOURCES = {
 "assets/assets/img/background/5.jpg": "e04af35ab740befc58160813e24a9a49",
 "assets/assets/img/background/6.jpg": "887338663641c33caac4a0995b1b514d",
 "assets/assets/img/puzzle.png": "b20795b98e8485ede076f229a50d46cb",
-"assets/assets%255Cfonts%255CValeraRound%255CVarelaRound-Regular.ttf": "6b7c705707eaa294409430419fd98efb",
-"assets/FontManifest.json": "d2292c8f790cc9036af38829c0167939",
+"assets/FontManifest.json": "0574c8c9784a96fc6c882d1554fc1ffc",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
+"assets/fonts/VarelaRound-Regular.ttf": "6b7c705707eaa294409430419fd98efb",
 "assets/NOTICES": "f1ea3fde7f1e996573f682c6610ea28e",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
@@ -24,8 +26,8 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "ab9d4e5e3861a598c3018b12f1b17f8a",
-"/": "ab9d4e5e3861a598c3018b12f1b17f8a",
+"index.html": "b75ec297290fa874e9cb20341d418dc3",
+"/": "b75ec297290fa874e9cb20341d418dc3",
 "main.dart.js": "0f8432d61e8908de272a0009709bece4",
 "manifest.json": "0567201f1f510a6af2f372f309dfe098",
 "version.json": "65dc3077ec85b9e59736032ae653d155"
