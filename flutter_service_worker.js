@@ -21,9 +21,9 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.png": "82582ee906b8d6b7860e8f26823bd3f7",
-"index.html": "df7e5cf66ade62f4ec9e5c8b6c81317f",
-"/": "df7e5cf66ade62f4ec9e5c8b6c81317f",
-"main.dart.js": "b1e16bea8b9fc00e40862bec8f63378e",
+"index.html": "101aa11cf6be1b7ce4d1827519f10e4f",
+"/": "101aa11cf6be1b7ce4d1827519f10e4f",
+"main.dart.js": "40c9f85a583c9d320909749371a1aec2",
 "manifest.json": "aa5272e943612b16f8b66475fa0e9b90",
 "version.json": "65dc3077ec85b9e59736032ae653d155"
 };
