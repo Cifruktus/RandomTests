@@ -1,1 +1,0 @@
-All photos used here are from pixabay.com (Most of them were edited)
